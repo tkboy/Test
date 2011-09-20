@@ -1,0 +1,12 @@
+*~
+*.DS_Store
+*.class
+*java#
+*.classpath
+*.project
+*.settings
+.gradle
+local.properties
+build/
+bin/
+gen/
